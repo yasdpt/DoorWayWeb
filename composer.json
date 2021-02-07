@@ -1,0 +1,8 @@
+{
+    "require": {
+        "morilog/jalali": "3.*",
+      "ext-mcrypt": "*",
+      "ext-json": "*",
+      "ext-mysqli": "*"
+    }
+}
